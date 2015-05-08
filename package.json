@@ -22,5 +22,9 @@
   "bugs": {
     "url": "https://github.com/nihey/indent-js/issues"
   },
-  "homepage": "https://github.com/nihey/indent-js"
+  "homepage": "https://github.com/nihey/indent-js",
+  "devDependencies": {
+    "js-beautify": "^1.5.5",
+    "webpack": "^1.8.11"
+  }
 }

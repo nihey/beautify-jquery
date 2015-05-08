@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Beautify</title>
+  </head>
+  <body>
+    <pre><code>
+      var bar = foo({"s": 2, a: 2, b:2,});
+      function() {var foo = 2;var boo = 2;var moo = 2;}
+    </code></pre>
+    <script src="//code.jquery.com/jquery-1.11.3.min.js"></script>
+    <script src="dist/jquery.beautify.js"></script>
+    <script>
+      $('pre code').beautify({indent_size: 2});
+    </script>
+  </body>
+</html>
