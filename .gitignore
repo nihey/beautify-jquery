@@ -1,8 +1,5 @@
 # vim temporary files
 *.swp
 
-# built files
-dist/
-
 # Dependencies
 node_modules/
