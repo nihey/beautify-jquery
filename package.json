@@ -1,0 +1,26 @@
+{
+  "name": "indent-js",
+  "version": "0.0.0",
+  "description": "A tool to dynamically indent code on <pre> tags",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/nihey/indent-js.git"
+  },
+  "keywords": [
+    "indent",
+    "javascript",
+    "code",
+    "pre",
+    "html"
+  ],
+  "author": "Nihey Takizawa",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/nihey/indent-js/issues"
+  },
+  "homepage": "https://github.com/nihey/indent-js"
+}
